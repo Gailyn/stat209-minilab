@@ -1,1 +1,2 @@
-# stat209-minilab
+# stat209-minilab 
+#This is a mini project on learning how to use Git and R together to work on group porjects and to trace your work over time. When creating a new project, select version control and the git, from there copy the url of your repo on git! 
